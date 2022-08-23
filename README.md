@@ -9,5 +9,5 @@
 2. Climatología
 
 ## Curso recibido
--programación R    
-    *Datos geoespaciales
+- programación R    
+    * Datos geoespaciales
