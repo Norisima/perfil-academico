@@ -11,3 +11,5 @@
 ## Curso recibido
 - programación R    
     * Datos geoespaciales
+
+![](foto_pasaporte.jpg)
