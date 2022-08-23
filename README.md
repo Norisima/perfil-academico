@@ -13,3 +13,7 @@
     * Datos geoespaciales
 
 ![](foto_pasaporte.jpg)
+
+<strong>Texto en negrita</strong>
+
+<em>texto en italica
