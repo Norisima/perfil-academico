@@ -1,6 +1,6 @@
 # Perfil academico 
 
-**Nombre**: Nora Machuca Mejía
+**Nombre**: Nora Machuca Mejía  
 **Profesión**: Biologa
 
 ## Áreas de interés
