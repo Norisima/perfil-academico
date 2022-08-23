@@ -10,3 +10,4 @@
 
 ## Curso recibido
 -programación R
+    * Datos geoespaciales
