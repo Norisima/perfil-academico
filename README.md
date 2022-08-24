@@ -2,6 +2,7 @@
 
 **Nombre**: Nora Machuca Mejía  
 **Profesión**: Biologa
+**email**: norism-m@hotmail.com
 
 ## Áreas de interés
 
@@ -14,6 +15,8 @@
 * [ecologia](https://concepto.de/ecologia/)
 
 ![](clima.jpg)
+
+
 
 <strong>Texto en negrita</strong>
 
