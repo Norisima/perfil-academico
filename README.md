@@ -13,7 +13,6 @@
     * Datos geoespaciales
 * [ecologia](https://concepto.de/ecologia/)
 
-    ![](foto_pasaporte.jpg)
 ![](clima.jpg)
 
 <strong>Texto en negrita</strong>
