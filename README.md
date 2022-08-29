@@ -7,11 +7,17 @@
 ## Áreas de interés
 
 1. Medio ambiente
-2. Climatología
+2. Climatología 
+3. Hidrología  
+4. Paleohidrología
 
 ## Curso recibido
 - programación R    
     * Datos geoespaciales
+- Cursos de Formación
+    * Sistemas de información geografíca
+    * Gestión del Recurso Hídrico
+    
 * [ecologia](https://concepto.de/ecologia/)
 
 ![](clima.jpg)
