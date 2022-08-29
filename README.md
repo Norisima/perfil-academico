@@ -24,7 +24,7 @@
 
 
 
-<strong>Texto en negrita</strong>
+<strong>Foto de perfil </strong>
 
 <em>Foto
 
