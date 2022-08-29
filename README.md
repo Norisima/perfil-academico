@@ -1,4 +1,4 @@
-# Perfil académico 
+# _Perfil académico_ 
 
 **Nombre**: Nora Machuca Mejía  
 **Profesión**: Bióloga  
