@@ -29,3 +29,5 @@
 <em>Foto
 
 <img src="foto_pasaporte.jpg" alt="Foto" style="width:100px;height:100px;">
+
+![Foto](foto_pasaporte.jpg)
