@@ -1,7 +1,7 @@
-# Perfil academico 
+# Perfil académico 
 
 **Nombre**: Nora Machuca Mejía  
-**Profesión**: Biologa  
+**Profesión**: Bióloga  
 **email**: norism-m@hotmail.com
 
 ## Áreas de interés
